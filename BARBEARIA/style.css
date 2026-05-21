@@ -1,9 +1,22 @@
 body{
-    text-align: center;
-    background-color: antiquewhite;
+    background-color: rgb(255, 228, 195);
 }
 
-p em strong{
-    color: rgb(24, 209, 0);
+#banner{
+    
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#missão{
     font-size: 20px;
+}
+em strong{
+    color: rgb(24, 209, 0);
 }
