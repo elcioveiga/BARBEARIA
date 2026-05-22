@@ -1,10 +1,15 @@
 body{
-    background-color: rgb(255, 228, 195);
+    
 }
 
 #barbe{
     width: 100%;
 }
+
+    .principal{
+        background-color: rgb(255, 228, 195);
+        padding: 30px;
+    }
 
 h1{
     text-align: center;
@@ -19,4 +24,28 @@ p{
 }
 em strong{
     color: rgb(24, 209, 0);
+}
+
+.itens{
+    font-style: italic;
+}
+
+.benefícios{
+    background: white;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+ol {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagensbene{
+    width: 50%;
 }
